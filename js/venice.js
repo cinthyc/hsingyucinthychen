@@ -1,4 +1,4 @@
-var images = ["images/venice/dsc03365.jpg", "images/venice/dsc03232.jpg", "images/venice/dsc03324.jpg", "images/venice/dsc03202.jpg"];
+var images = ["../images/venice/DSC03365.jpg", "../images/venice/DSC03232.jpg", "../images/venice/DSC03324.jpg", "../images/venice/DSC03202.jpg"];
 var count = 0
 
 $("#next").on("click",function(){
