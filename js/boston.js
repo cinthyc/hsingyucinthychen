@@ -1,4 +1,4 @@
-var images = ["images/boston/dsc00899.jpg", "images/boston/dsc00965.jpg", "images/boston/img_1547.jpg", "images/boston/img_1369.jpg"];
+var images = ["images/boston/DSC00899.jpg", "images/boston/DSC00965.jpg", "images/boston/IMG_1547.jpg", "images/boston/IMG_1369.jpg"];
 var count = 0
 
 $("#next").on("click",function(){
